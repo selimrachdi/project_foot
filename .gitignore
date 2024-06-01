@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 # Training 
-training/
+training/football-players-detection-1/
 # Run
 runs/
 # Input videos
