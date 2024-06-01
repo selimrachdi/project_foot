@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# Training 
+training/
+# Run
+runs/
+# Input videos
+input_videos/
 # Distribution / packaging
 .Python
 build/
